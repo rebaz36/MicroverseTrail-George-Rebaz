@@ -18,6 +18,11 @@ body {
   a {
     color: #477ca7;
   }
+
+  p {
+    text-align: justify;
+    text-align-last: center;
+  }
   
   #main {
     margin: 28px 10px;
@@ -54,3 +59,10 @@ body {
       font-size: 14px;
     }
   }  
+
+  ul {
+    max-width: 4000px;
+    margin: 0 auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
